@@ -1,6 +1,6 @@
 module Input.Utils.Decoders exposing (decodeChangeAtPosition)
 
-{-| JSON decoding functions for the position information on an element change.
+{-| JSON decoding functions for more complex input updates.
 
 @docs decodeChangeAtPosition
 
