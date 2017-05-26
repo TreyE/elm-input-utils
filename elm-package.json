@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "summary": "Utilities for more complex input use cases.",
     "repository": "https://github.com/TreyE/elm-input-utils.git",
     "license": "BSD3",
