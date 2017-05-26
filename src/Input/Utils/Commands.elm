@@ -1,4 +1,4 @@
-port module Input.Utils.Commands exposing (updatePositionAndCursor)
+module Input.Utils.Commands exposing (updatePositionAndCursor)
 {-| Commands for manipulating inputs.
 
 @docs updatePositionAndCursor
